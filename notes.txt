@@ -1,0 +1,26 @@
+    ---> creating a  class component  in react 
+         ---> smallest possible parts of the webpage .....
+         ---> can contain a logic and a part of the ui 
+         --->each component will have its own lifecycle.
+         ---> use can reuse the component.   ....
+
+
+          the types of components in react
+              ---> they are 2 types of components is there in react
+                 1. class based component  / smart component
+                        ---> UI + Logic
+                 2. function based component / dumb component
+                            ---> UI 
+
+    props : 
+          --->  props are used to pass the data from parent component to child component.
+          ---> it is im-mutable 
+          --->flow of data is uni-directional
+          ---> flow of data form parent to child component
+          --->props communicate data from parent component to child component
+
+            they are 2 ways to pass the data from parent to child component
+                   ---> you can pass the data between the HTML tags 
+                   ---> you can pass the data as an attribute of an html tag.
+
+    
